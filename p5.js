@@ -1,4 +1,0 @@
-   <head>
-        <script src="http://cdn.jsdelivr.net/p5.js/0.3.5/p5.min.js"></script>
-        <script src="sketch.js"></script>
-    </head>
